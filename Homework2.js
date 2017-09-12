@@ -1,0 +1,12 @@
+const Fibon1=1;
+const Fibon2=1;
+const Fibon3=Fibon1+Fibon2;
+const Fibon4=Fibon2+Fibon3;
+const string1="the first element of the Fibonacci sequence is ";
+const string2="the second element of the Fibonacci sequence is ";
+const string3="the third element of the Fibonacci sequence is ";
+const string4="the fourth element of the Fibonacci sequence is ";
+console.log (string1+Fibon1);
+console.log (string2+Fibon2);	
+console.log (string3+Fibon3);
+console.log (string4+Fibon4);
